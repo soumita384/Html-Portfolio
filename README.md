@@ -1,1 +1,1 @@
-# Html-Portfolio Simple portfolio  showing websites i created so far
+# Html-Portfolio Simple portfolio  showing websites I created so far.
